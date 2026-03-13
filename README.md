@@ -22,7 +22,7 @@ This server acts exclusively as the backend infrastructure for the **Cussi Parki
 * **Role-Based Access Control:** Users are categorized as "owners" or "members". Owners can manage vehicles and generate time-limited invite codes.
 * **Secure Sharing:** Temporary, single-use invite codes allow family members to sync and track the same vehicles.
 * **Token Authentication:** Uses secure, hashed token-based authentication for API communication with the Android client.
-* **Automated Deployment:** Includes an installation script tailored for ARMv6 devices (Raspberry Pi) that automatically configures Caddy, PHP-FPM, and Let's Encrypt SSL certificates via DuckDNS.
+* **Automated Deployment:** Includes an installation script tailored for ARMv6 devices (Raspberry Pi Zero W) that automatically configures Caddy, PHP-FPM, and Let's Encrypt SSL certificates via DuckDNS.
 
 ## Prerequisites
 
