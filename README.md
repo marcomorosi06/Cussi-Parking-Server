@@ -83,6 +83,4 @@ While this project includes automation scripts designed to simplify the deployme
 
 This project is licensed under the MIT License.
 
-MIT License
-
 More informations in the LICENSE file inside of the repository.
