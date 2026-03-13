@@ -85,4 +85,4 @@ This project is licensed under the MIT License.
 
 MIT License
 
-More informations in the LICENSE.md file inside of the repository.
+More informations in the LICENSE file inside of the repository.
