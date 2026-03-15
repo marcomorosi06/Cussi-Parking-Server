@@ -1,6 +1,9 @@
 <div align="center">
   <img src="logo.png" alt="Cussi Parking Logo" width="200" />
   <h1>Cussi Parking Server</h1>
+  <a href="https://ko-fi.com/marcomorosi">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi" />
+  </a>
 </div>
 
 A lightweight, privacy-first backend for the Cussi Parking Android application. Built with PHP and SQLite, this server is designed to be fully self-hosted, giving you absolute control over your location data without relying on third-party cloud services.
@@ -78,6 +81,14 @@ All API responses are formatted as JSON.
 ## Security & Liability Disclaimer
 
 While this project includes automation scripts designed to simplify the deployment of secure connections (such as Caddy with auto-renewing Let's Encrypt SSL certificates), **the ultimate responsibility for securing the server environment falls on the end-user.** Self-hosting requires exposing ports to the public internet. Please ensure your router, firewall, and host operating system are properly configured and kept up to date. The source code is entirely public for transparency and auditing. However, as this is an open-source project provided "as is", the author accepts no liability for any potential security vulnerabilities, data breaches, or unauthorized access to your hosted instance. You are highly encouraged to review the code and implement additional network security measures as you see fit.
+
+## Support the Project
+
+Cussi Parking ecosystem is completely free, open-source, and privacy-focused. If this self-hosted server saved you from losing your car (or just saved you a headache), consider buying me a coffee to support its development!
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/marcomorosi)
+
+---
 
 ## License
 
